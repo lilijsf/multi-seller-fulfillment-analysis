@@ -15,6 +15,8 @@ which is publicly available on Kaggle.
 The dataset is downloaded automatically by `analysis.py` using `kagglehub`.
 Raw data are not redistributed in this repository.
 
+Dataset: [Brazilian E-Commerce Public Dataset by Olist] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ## Analysis
 
 The script reproduces the main analytical workflow used in the paper,
