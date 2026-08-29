@@ -44,3 +44,39 @@ Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Running the analysis
+
+Run:
+```bash
+analysis.py
+```
+
+The script downloads the public Olist dataset and saves the generated
+tables, workbook, and figures in the outputs directory.
+
+The seller-cluster bootstrap uses 1,000 replications, so the full analysis
+may take some time to complete.
+
+## Output
+
+The script generates:
+- python_results.xlsx
+- descriptive and robustness outputs
+- fulfillment and delivery figures
+- adjusted probability and coefficient figures
+
+These files are generated automatically and are not stored in the repository.
+
+## Citation
+
+If you use this code, please cite the associated paper:
+
+**Multi-Seller Fulfillment and Customer Dissatisfaction in Marketplace E-Commerce**
+
+Full publication details will be added after publication.
+
+## License
+
+This repository is released under the MIT License.
