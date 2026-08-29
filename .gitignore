@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated analysis outputs
+outputs/
+python_results.xlsx
+
+# Local environment files
+.DS_Store
+Thumbs.db
