@@ -1,6 +1,3 @@
-# multi-seller-fulfillment-analysis
-Python code for the empirical analysis of multi-seller fulfillment and customer dissatisfaction in marketplace e-commerce.
-
 # Multi-Seller Fulfillment and Customer Dissatisfaction
 
 This repository contains the Python analysis used for the paper
